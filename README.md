@@ -58,6 +58,8 @@
         .content {
             flex-grow: 1;
             padding: 20px;
+            background-color: white; /* Set the background color to white */
+            color: black; /* Set the text color to black */
         }
 
         /* Footer styling */
